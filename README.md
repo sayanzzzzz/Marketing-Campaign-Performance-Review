@@ -90,10 +90,9 @@ A suggested repository structure is:
 Marketing-Campaign-Performance-Review/
 │
 ├── Marketing_Campaign_Analysis.ipynb
-├── dataset.csv
+├── Marketing_Campaign_Performance_Review.pptx
 ├── README.md
-└── presentation/
-    └── Marketing_Campaign_Performance_Review.pptx
+└── marketing_campaign.csv
 ```
 
 Update the filenames above to match the actual files in your repository.
